@@ -1,7 +1,9 @@
 # Landventures
 
 Welcome to **Landventures**!  
-This is my first semester ICT project: a simple website built with HTML, CSS, and JavaScript.
+This is my first semester ICT project: a simple, live website built with HTML, CSS, and JavaScript.
+
+
 
 ## 🌱 About the Project
 
@@ -18,6 +20,8 @@ It demonstrates my learning of the basics of:
 - Clean layout and user-friendly interface
 - Interactive elements using JavaScript
 - Simple navigation between pages
+- **Live demo hosted on GitHub Pages:**  
+  [View Landventures Live](https://abdul15x.github.io/Landventures/)
 
 ## 🛠️ Technologies Used
 
@@ -31,6 +35,7 @@ It demonstrates my learning of the basics of:
 index.html
 style.css
 script.js
+/images/screenshot.png
 / (additional HTML, CSS, JS files if any)
 ```
 
@@ -39,7 +44,7 @@ script.js
 1. **Clone or Download** this repository.
 2. Open `index.html` in your web browser.
 
-No installation needed!
+Or visit the [live site](https://abdul15x.github.io/Landventures/) directly!
 
 ## 👨‍💻 Author
 
